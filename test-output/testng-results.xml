@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2561" started-at="2021-12-01T22:27:29 IST" finished-at="2021-12-01T22:27:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2561" started-at="2021-12-01T22:27:29 IST" finished-at="2021-12-01T22:27:31 IST">
+      <class name="com.api.Response_Code_Validation">
+        <test-method status="PASS" signature="data_Validation()[pri:0, instance:com.api.Response_Code_Validation@12cdcf4]" name="data_Validation" duration-ms="2530" started-at="2021-12-01T22:27:29 IST" finished-at="2021-12-01T22:27:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data_Validation -->
+      </class> <!-- com.api.Response_Code_Validation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
